@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Guardian Robot — Web (Next.js)"
+abstract: "Next.js landing for Guardian Robot: narrative site with Framer Motion, Tailwind, lucide icons, particle hero, Viaje/Timeline/Soluciones/TechStack/Download sections. Deploys to Vercel."
+authors:
+  - family-names: "Rosario"
+    given-names: "Starlyn"
+    alias: "starlyn2010"
+    email: "starlyneliezerrosario@gmail.com"
+    website: "https://github.com/starlyn2010"
+repository-code: "https://github.com/starlyn2010/guardian-robot-web"
+url: "https://github.com/starlyn2010/guardian-robot-web"
+license: "MIT"
+keywords:
+  - nextjs
+  - react
+  - tailwindcss
+  - framer-motion
+  - vercel
+  - landing-page
+  - guardian-robot
+version: "1.0.0"
+date-released: "2026-01-01"
+language: "en"
